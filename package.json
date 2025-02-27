@@ -1,0 +1,13 @@
+{
+  "name": "@stv707/npm-package-demo",
+  "version": "1.0.0",
+  "description": "A demo package for GitHub Packages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stv707/npm-package-demo.git"
+  },
+  "author": "Steve",
+  "license": "MIT"
+}
+
